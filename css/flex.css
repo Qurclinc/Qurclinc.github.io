@@ -351,3 +351,12 @@ footer h1{
 .OOO_Kosmos{
 	color:#555555;	
 }
+
+footer a{
+	color:#888888;
+	text-decoration:none;
+}
+
+footer a:hover{
+	color:#888888;
+}
